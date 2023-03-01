@@ -37,9 +37,9 @@ header{
     padding-right: 40px;
 }
 
-.logo{
-    width: auto;
-    height: auto;
+#logo{
+    width: 140px;
+    height: 70px;
 }
 
 /*

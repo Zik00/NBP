@@ -1,24 +1,36 @@
 #bank-image
 {
-    width: 450px;
+    width: 600px;
 }
 #_01
 {
-    width:  60%;
-    
+    width:  50%;
+
 }
 #bank-img
 {
-    width: 450px;
+    width: 600px;
     margin: auto;
 
 }
 #mainsec
 {
     display: flex;
-    margin-bottom: 7rem;
+    padding: 3rem 0 3rem 0;
 }
 #h1size
 {
     font-size: 50px;
+    margin-top: 0;
+}
+#psize
+{
+    text-align: justify;
+}
+#head-image
+{
+    width: 140px;
+    height: 70px;
+    float: right;
+    margin: 50px 50px 0 0;
 }

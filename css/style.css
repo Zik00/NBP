@@ -424,7 +424,7 @@ footer hr {
 
 *
 {
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
 }
 
 #test-sec
@@ -543,6 +543,10 @@ footer hr {
 }
 .nav-on-page
 {
-    height: 150px;
-    background-color: #d33f52;
+    height: 600px;
+}
+#smaller
+{
+    font-size: 25px;
+    color: rgb(255, 215, 0, 0.5);
 }

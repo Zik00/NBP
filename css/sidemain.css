@@ -1,0 +1,29 @@
+:root
+{
+    --text-color: #073042;
+    --basic-font: "poppins";
+    --blue-background: #d7effe;
+    --green-background: #ecfbf3;
+}
+#back
+{
+    position: fixed;
+    padding: 1rem;
+    border: none;
+    border-radius: 3rem;
+    margin-top: 5rem;
+    margin-left: 7rem;
+    background-color: var(--text-color);
+    color: white;
+    font-size: large;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+#back:hover
+{
+    background-color: #6dd58c;
+    color: var(--text-color);
+    font-weight: 700;
+    transform: scale(1.1);
+}

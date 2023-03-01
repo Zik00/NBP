@@ -511,3 +511,28 @@ footer hr {
     margin-right: 15px;
     border: none;
 }
+
+#bottom-img
+{
+   max-width: 390px;
+}
+
+/* Portfolio - podstawy */
+
+#h4_title {
+    padding: 0;
+}
+
+.button_podstawy_area{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.button_podstawy{
+    color: #000000;
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+}

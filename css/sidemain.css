@@ -1,9 +1,10 @@
 :root
 {
-    --text-color: #073042;
+    --text-color: #1a1a1a;
     --basic-font: "poppins";
     --blue-background: #d7effe;
     --green-background: #ecfbf3;
+    --red-color: #d33f52;
 }
 #back
 {
@@ -22,8 +23,14 @@
 
 #back:hover
 {
-    background-color: #6dd58c;
+    background-color: var(--red-color);
     color: var(--text-color);
     font-weight: 700;
     transform: scale(1.1);
+}
+.nav-on-page
+{
+    z-index: 1;
+    height: 150px;
+    background-color: #d33f52;
 }

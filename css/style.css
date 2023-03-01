@@ -479,7 +479,7 @@ footer hr {
     background-color: #d33f52;
     margin-top: 15px;
     font-size: large;
-    float: right;
+    float: center;
 }
 
 #button_inwestycje:hover {
@@ -540,4 +540,9 @@ footer hr {
 #non-hover:hover
 {
     color: #ffffff;
+}
+.nav-on-page
+{
+    height: 150px;
+    background-color: #d33f52;
 }

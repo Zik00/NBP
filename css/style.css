@@ -179,8 +179,8 @@ h5 {
 }
 
 #home h1 {
-    border: 2px solid #D43F52;
-    color: #D43F52;
+    border: 2px solid rgb(255, 215, 0);
+    color: rgb(255, 215, 0);;
     display: inline-block;
     letter-spacing: 6px;
     padding: 25px 35px;
@@ -459,4 +459,55 @@ footer hr {
 {
     margin-top: 5rem;
     text-align: justify;
+}
+
+/* TEXT STYLE */
+
+.text_style {
+    text-align: justify;
+    text-indent: 1cm;
+}
+
+/* WIĘCEJ INWESTYCJE */
+
+.button_inwestycje {
+    text-decoration: none;
+    border-radius: 20px;
+    height: 80px;
+    width: 150px;
+    text-align: center;
+    background-color: #d33f52;
+    margin-top: 15px;
+    font-size: large;
+}
+
+.button_inwestycje:hover {
+    scale: 1.05;
+    color: white;
+
+}
+
+.button_inwestycje:active {
+    scale: 0.95;
+}
+
+.go_next {
+    text-align: center;
+}
+
+/* WIĘCEJ BANK NBP */
+
+.button_about_area{
+    text-align: right;
+    text-decoration: none;
+}
+
+.button_about {
+    text-decoration: none;
+    height: 40px;
+    width: 80px;
+    background-color: #d33f52;
+    border-radius: 15px;
+    margin-right: 15px;
+    border: none;
 }

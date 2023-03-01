@@ -479,6 +479,7 @@ footer hr {
     background-color: #d33f52;
     margin-top: 15px;
     font-size: large;
+    float: right;
 }
 
 #button_inwestycje:hover {

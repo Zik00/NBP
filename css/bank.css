@@ -1,0 +1,18 @@
+#bank-image
+{
+    width: 450px;
+}
+#_01
+{
+    width:  450px;
+}
+#bank-img
+{
+    width: 450px;
+    float: left;
+
+}
+#mainsec
+{
+    display: flex;
+}

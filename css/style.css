@@ -424,7 +424,7 @@ footer hr {
 
 *
 {
-    /* outline: 1px solid red; */
+    outline: 1px solid red;
 }
 
 #test-sec
@@ -540,10 +540,6 @@ footer hr {
 #non-hover:hover
 {
     color: #ffffff;
-}
-.nav-on-page
-{
-    height: 600px;
 }
 #smaller
 {

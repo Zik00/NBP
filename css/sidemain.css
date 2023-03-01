@@ -28,3 +28,8 @@
     font-weight: 700;
     transform: scale(1.1);
 }
+
+.nav-on-page
+{
+    height: 180px;
+}

@@ -421,3 +421,42 @@ footer hr {
 }
 
 /* end of social-icons */
+
+*
+{
+    outline: 1px solid red;
+}
+
+#test-sec
+{
+    display: flex;
+    justify-content: space-evenly;
+    max-height: 550px;
+    min-height: 480px;
+}
+#test-btn
+{
+    width: 20%;
+    height: 62%;
+    margin-top: 9rem;
+}
+#test-text
+{
+    width: 30vw;
+    font-size: xx-large;
+    margin-top: 5rem;
+}
+#test-image
+{
+    width: 100%;
+    border-radius: 5%;
+}
+#centered-test-text
+{
+    text-align: center;
+}
+#test-ans
+{
+    margin-top: 5rem;
+    text-align: justify;
+}

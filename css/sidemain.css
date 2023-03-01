@@ -28,9 +28,3 @@
     font-weight: 700;
     transform: scale(1.1);
 }
-.nav-on-page
-{
-    z-index: 1;
-    height: 150px;
-    background-color: #d33f52;
-}

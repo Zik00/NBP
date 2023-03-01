@@ -470,7 +470,7 @@ footer hr {
 
 /* WIĘCEJ INWESTYCJE */
 
-.button_inwestycje {
+#button_inwestycje {
     text-decoration: none;
     border-radius: 20px;
     height: 80px;
@@ -481,13 +481,13 @@ footer hr {
     font-size: large;
 }
 
-.button_inwestycje:hover {
+#button_inwestycje:hover {
     scale: 1.05;
     color: white;
 
 }
 
-.button_inwestycje:active {
+#button_inwestycje:active {
     scale: 0.95;
 }
 
@@ -535,4 +535,8 @@ footer hr {
     background-color: white;
     border-radius: 5px;
     border: none;
+}
+#non-hover:hover
+{
+    color: #ffffff;
 }

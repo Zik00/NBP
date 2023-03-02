@@ -199,6 +199,12 @@ section{
     height: 100px;
 }
 
+.description
+{
+    text-align: justify;
+    text-indent: 1cm;
+}
+
 /* Media queries (max-width: 1050px) */
 @media screen and (max-width: 1050px){
     section{

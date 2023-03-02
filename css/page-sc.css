@@ -65,11 +65,11 @@ section{
 
 .content .text-box{
   z-index: 222;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(70, 70, 70, 0.287);
   backdrop-filter: blur(20px);
   padding: 40px;
   max-width: 400px;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(70, 70, 70, 0.287);
   border-radius: 10px;
   transform: translate(-80px, 50px);
 }
@@ -134,4 +134,8 @@ section{
 .sec-03{
   margin-bottom: 100px;
 }
-      
+.justified
+{
+  text-align: justify;
+  text-indent: 1cm;
+}

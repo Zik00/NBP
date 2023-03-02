@@ -4,6 +4,11 @@
     text-decoration: none;
 }
 
+#diver{
+    align-items: center;
+    text-align: center;
+}
+
 #bank-image
 {
     width: 600px;

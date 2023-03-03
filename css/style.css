@@ -422,38 +422,22 @@ footer hr {
 
 /* end of social-icons */
 
-#test-sec
-{
-    display: flex;
-    justify-content: space-evenly;
-    max-height: 550px;
-    min-height: 480px;
-}
-#test-btn
-{
-    width: 20%;
-    height: 62%;
-    margin-top: 9rem;
-}
-#test-text
-{
-    width: 30vw;
-    font-size: xx-large;
-    margin-top: 5rem;
-}
-#test-image
-{
+#diver{
     width: 100%;
-    border-radius: 5%;
 }
-#centered-test-text
-{
+
+#test_q{
+    background-color: #d33f52;
+    text-decoration: none;
+    border-radius: 15px;
+    height: 80px;
+    width: 150px;
+    margin-top: 20px;
     text-align: center;
-}
-#test-ans
-{
-    margin-top: 5rem;
-    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    color: #fff;
+    font-size: 25px;
 }
 
 /* TEXT STYLE */

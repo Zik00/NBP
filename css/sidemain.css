@@ -57,6 +57,11 @@
     display: none;
 }
 
+#regulamin
+{
+    font-size: 10px;
+}
+
 #back-2:hover
 {
     background-color: var(--red-color);
